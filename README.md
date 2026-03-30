@@ -1,6 +1,5 @@
-## Preview
-![Email System](Preview.png)
 # Email-Management-System
+![Email System](Preview.png)
 A structured email management system for organizing, prioritizing, and responding to client emails effectively.
 This project demostrates how I organise and manage client emails efficiently.
 ##  What this includes:
