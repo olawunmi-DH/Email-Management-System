@@ -11,3 +11,7 @@ This project demostrates how I organise and manage client emails efficiently.
 - Google Docs
 ##  Goal:
 To improve response time, reduce clutter, and maintain professional communication with clients.
+## Attached Files:
+- Email Organization System
+- Email Templates
+- Workflow Process
