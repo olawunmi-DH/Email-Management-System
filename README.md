@@ -1,3 +1,5 @@
+## Preview
+![Email System](https://github.com/olawunmi-DH/Email-Management-System/commit/83cae36d325aa5adcff660e9d5d6dd3ed40f8293))
 # Email-Management-System
 A structured email management system for organizing, prioritizing, and responding to client emails effectively.
 This project demostrates how I organise and manage client emails efficiently.
